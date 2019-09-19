@@ -1,0 +1,6 @@
+framework module BugsnagReactNative {
+  umbrella header "BugsnagReactNative-umbrella.h"
+
+  export *
+  module * { export * }
+}
